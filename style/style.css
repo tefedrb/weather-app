@@ -32,6 +32,10 @@ header {
   margin: auto;
 }
 
+form {
+  margin-bottom: 15%;
+}
+
 button {
   border: none;
   opacity: .5;
