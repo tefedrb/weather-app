@@ -80,6 +80,7 @@ const headerAdjust = () => {
   header.classList.add('header-adjust');
   form.style.marginRight = '1em';
   header.style.margin = '0';
+  form.style.marginBottom = '0';
 };
 
 const showSearchResults = () => {
